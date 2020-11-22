@@ -1,0 +1,55 @@
+.image1{
+ left: 30px;
+ top: -20PX;
+}
+.image2{
+ bottom: -20px;
+ right: 30px;
+}
+.person{
+ margin-top: -70px;
+ border-radius: 50%;
+ border: 10px solid 1;
+}
+.cricle{
+ width: 20px!important;
+ height: 20px!important;
+ border-radius: 50%!important;
+ border: 2px solid #07f3ac!important;
+}
+.carousel-control-next{
+ background-color: black;
+ width: 40px;
+ height: 40px;
+ border-radius: 50%;
+ right: 160px;
+ top: 50%;
+}
+.carousel-control-prev{
+ background-color: black;
+ width: 40px;
+ height: 40px;
+ border-radius: 50%;
+ left: 160px;
+ top: 50%;
+}
+.bg-z{
+ width: 500px;
+ height: 300x;
+ background-color: white;
+}
+.carousel-indicators .active{
+ background-color: #07f3ac!important;
+}
+.div{
+ position: absolute;
+ width: 1000px;
+ height: 250px;
+ background-color: white;
+ z-index: -2;
+ left: -120px;
+ top: 50px;
+}
+.col-md-8{
+ box-shadow: 0 2px 5px 3px #f1f1f1;
+}
